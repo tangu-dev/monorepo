@@ -1,0 +1,19 @@
+[workspace]
+
+resolver = "2"
+
+members = [
+    "tangu",
+    "tangu-cli",
+    "tangu-analysis",
+    "tangu-lints",
+    "tangu-language-server",
+    "tangu-formatting",
+]
+
+[workspace.package]
+version = "0.20.0"
+edition = "2021"
+authors = ["Georgios Moschovitis <george.moschovitis@gmail.com>"]
+
+[workspace.dependencies]

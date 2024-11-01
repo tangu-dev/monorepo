@@ -1,0 +1,7 @@
+[package]
+name = "tangu-language-server"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+
+[dependencies]
