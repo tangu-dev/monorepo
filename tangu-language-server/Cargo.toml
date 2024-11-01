@@ -1,7 +1,11 @@
 [package]
 name = "tangu-language-server"
+description = "A Language Server for the Tangu language."
+repository = "https://github.com/tangu-dev/monorepo/tangu-language-server"
+keywords = ["tangu", "language", "lsp", "ide", "development"]
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
+license.workspace = true
 
 [dependencies]

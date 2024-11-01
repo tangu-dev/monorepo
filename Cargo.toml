@@ -14,6 +14,7 @@ members = [
 [workspace.package]
 version = "0.20.0"
 edition = "2021"
-authors = ["Georgios Moschovitis <george.moschovitis@gmail.com>"]
+license = "MPL-2.0"
+authors = ["George Moschovitis <george.moschovitis@gmail.com>"]
 
 [workspace.dependencies]

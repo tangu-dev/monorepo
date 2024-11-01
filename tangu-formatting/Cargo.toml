@@ -1,7 +1,11 @@
 [package]
 name = "tangu-formatting"
+description = "Formatting infrastructure for the Tangu language."
+repository = "https://github.com/tangu-dev/monorepo/tangu-formatting"
+keywords = ["tangu", "language", "formatting", "pretty-print"]
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
+license.workspace = true
 
 [dependencies]

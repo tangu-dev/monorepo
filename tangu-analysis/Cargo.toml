@@ -1,7 +1,11 @@
 [package]
 name = "tangu-analysis"
+description = "Analysis infrastructure for the Tangu language."
+repository = "https://github.com/tangu-dev/monorepo/tangu-analysis"
+keywords = ["tangu", "language", "analysis", "development"]
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
+license.workspace = true
 
 [dependencies]

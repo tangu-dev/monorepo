@@ -1,7 +1,11 @@
 [package]
 name = "tangu-lints"
+description = "A collection of lints for the Tangu language."
+repository = "https://github.com/tangu-dev/monorepo/tangu-lints"
+keywords = ["tangu", "language", "lint", "analysis"]
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
+license.workspace = true
 
 [dependencies]

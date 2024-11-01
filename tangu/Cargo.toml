@@ -1,7 +1,11 @@
 [package]
 name = "tangu"
+description = "The Tangu language."
+repository = "https://github.com/tangu-dev/monorepo/tangu"
+keywords = ["tangu", "language", "lisp"]
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
+license.workspace = true
 
 [dependencies]

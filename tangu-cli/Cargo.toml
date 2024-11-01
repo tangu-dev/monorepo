@@ -1,7 +1,11 @@
 [package]
 name = "tangu-cli"
+description = "CLI tools for the Tangu language."
+repository = "https://github.com/tangu-dev/monorepo/tangu-cli"
+keywords = ["tangu", "language", "cli", "toolchain", "development"]
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
+license.workspace = true
 
 [dependencies]
